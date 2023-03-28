@@ -29,7 +29,7 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@noirZong)
+[![YouTube](https://img.shields.io/badge/YouTube-Noir_Rauri-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@noirZong)
 [![Twitter](https://img.shields.io/badge/Twitter-@RauriYhorel-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/RauriYhorel)
 [![Instagram](https://img.shields.io/badge/Instagram-@rauriyhorel-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/rauriyhorel)
 </br>
