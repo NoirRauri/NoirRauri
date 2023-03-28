@@ -1,7 +1,7 @@
 # ! Hola, mi nombre es Michael Alvarez 👋
 ### Freelance full-stack engineer
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/noirZong?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/@noirZong?sub_confirmation=1)
 [![Twitter Follow](https://img.shields.io/twitter/follow/RauriYhorel?style=social)](https://twitter.com/RauriYhorel)
 ![GitHub Followers](https://img.shields.io/github/followers/NoirRauri?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/NoirRauri?style=social)
