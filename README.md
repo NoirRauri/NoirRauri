@@ -26,6 +26,17 @@
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)]()
 </br>
 Y alguna más...
+
+## Encuéntrame en:
+
+[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@noirZong)
+[![Twitter](https://img.shields.io/badge/Twitter-@RauriYhorel-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/RauriYhorel)
+[![Instagram](https://img.shields.io/badge/Instagram-@rauriyhorel-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/rauriyhorel)
+</br>
+[![TikTok](https://img.shields.io/badge/TikTok-@rauriyhorel-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@rauriyhorel)
+[![Facebook](https://img.shields.io/badge/Facebook-@michaelsahdev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/michaelsahdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michaelsah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/michaelsah)
+
 <!--
 **NoirRauri/NoirRauri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
